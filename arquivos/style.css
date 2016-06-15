@@ -1,7 +1,34 @@
 
 #cima{
 	background-color:#552d34;
-	padding-top:10%;
+	padding-top:7%;
+	padding-bottom:3%;
+}
+
+#embreve {
+	color:#ffffff;
+	font-size:1.2em;
+	
+}
+
+#logo{
+	padding:6%;
+}
+
+#logo img{
+	width:50%;	
+}
+
+footer{
+	background-color:#552d34;
+	padding:5%;
+}
+
+@media(max-width:767px) {
+	
+#cima{
+	background-color:#552d34;
+	padding-top:5%;
 	padding-bottom:3%;
 }
 
@@ -16,12 +43,14 @@
 }
 
 #logo img{
-	width:60%	
+	width:90%	
 }
 
 footer{
 	background-color:#552d34;
 	height:30%;
+}
+	
 }
 
 @media(max-width:767px) {
