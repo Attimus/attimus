@@ -1,0 +1,54 @@
+
+#cima{
+	background-color:#552d34;
+	padding-top:10%;
+	padding-bottom:3%;
+}
+
+#embreve {
+	color:#ffffff;
+	font-size:1.2em;
+	
+}
+
+#logo{
+	padding:5%
+}
+
+#logo img{
+	width:60%	
+}
+
+footer{
+	background-color:#552d34;
+	height:30%;
+}
+
+@media(max-width:767px) {
+	
+#cima{
+	background-color:#552d34;
+	padding-top:10%;
+	padding-bottom:3%;
+}
+
+#embreve {
+	color:#ffffff;
+	font-size:1.2em;
+	
+}
+
+#logo{
+	padding:5%
+}
+
+#logo img{
+	width:90%	
+}
+
+footer{
+	background-color:#552d34;
+	height:30%;
+}
+	
+}
