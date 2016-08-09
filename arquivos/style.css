@@ -75,12 +75,12 @@
 #mensagem1E p{
 	margin:0;
 	text-align:justify;
-	font-size:1.1em;
+	font-size:1.04em;
 	font-family:human;
 }
 
 #mensagem1E div{
-	width: 60%;
+	width: 61%;
 	margin-left:5%;
 	margin-top:5%;;
 }
@@ -89,7 +89,7 @@
 	background-color:#ffffff;
 	height:3px;
 	padding:none;
-	width:61%;
+	width:65%;
 }
 
 #servicos{
@@ -99,13 +99,14 @@
 .roxo{
 	color:#4d3137;
 	margin:0;
-	font-family:times;
+	font-family:swiss;
+	font-size: 1em;
 }
 
 .branco{
 	color:#ffffff;
 	margin:0;
-	font-size:1.2em;
+	font-size:1em;
 }
 
 #descricaoserv p{
@@ -133,8 +134,10 @@
 
 #expservico div div {
     display: inline-block;
-    width: 21%;
+    width: 24%;
     margin: 3%;
+	text-align: center;
+    font-size: 0.9em;
 }
 
 #expservico div div figure {
@@ -151,7 +154,7 @@
 #mensagemfinal {
 	background-color:#9b012d;
 	color:#ffffff;
-	margin-top:10%;
+	margin-top:5%;
 
 }
 
@@ -186,8 +189,8 @@
 }
 
 #pfrase{
-	 text-align: right;
-    font-size: 1.6em;
+	 text-align: justify;
+    font-size: 1.2em;
 	font-style:italic;
 	
 }
@@ -199,6 +202,7 @@ footer{
 	background-color:#000000;
 	color:#ffffff;
 	padding:4%;
+	margin-top: 2%;
 		
 }
 #contatos{
