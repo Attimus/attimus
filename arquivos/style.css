@@ -250,6 +250,148 @@ footer{
 
 @media(max-width:767px) {
 	
+	#logo img{
+	 width:50%;	
+}
+	
+#banner div{
+	
+	color: #ffffff;
+    font-family: swiss;
+    font-size: 0.9em;
+    margin-top: 25%;
+    margin-bottom: 25%;
+}
+
+#mensagem1 {
+	background-color:#000000;
+	color:#ffffff;
+	padding:1%;
+}
+
+#mensagem1 div{
+	display: inline-block;
+}
+
+#mensagem1D{
+	padding:1%;
+	width:100%;
+	font-family:swiss;
+}
+
+#mensagem1D p{
+	margin:0;
+	font-size:1.6em;
+	margin-bottom:1%;
+	font-family:swiss;
+}
+
+#mensagem1D div{
+	margin-right:5%;
+	margin-top:5%;
+	font-family:swiss;
+}
+
+#mensagem1E{
+	padding:1%;
+	width:100%;
+
+}
+
+#mensagem1E p{
+	margin:0;
+	text-align:justify;
+	font-size:0.9em;
+	font-family:human;
+	font-style: italic;
+}
+
+#mensagem1E div{
+	width: 90%;
+	margin-left:5%;
+	margin-top:5%;
+	margin-bottom: 5%;
+}
+
+#linhamensagem {
+	background-color:#ffffff;
+	height:2px;
+	padding:none;
+	width:90%;
+}
+
+
+#descricaoserv p{
+	margin-top:8%;
+	font-size:1em;
+	color: #4e3137;
+	margin-bottom:6%;
+	font-family:swiss;
+}
+
+#separador2 {
+	width:50%;
+}
+
+#expservico div div {
+    display: inline-block;
+    width: 50%;
+    margin: 3%;
+	text-align: center;
+    font-size: 0.9em;
+    margin-bottom: 8%;
+}
+
+#expservico div div figure {
+    margin:0;
+	font-size: 0.9em;
+}
+
+#mensagemfD{
+	width:100%;
+}
+
+#mensagemfE{
+	width:100%;
+}
+
+#frase {
+	margin-left: 10%;
+    width: 80%;
+
+}
+
+#comentario {
+	 text-align: justify;
+    font-size: 1em;
+    font-family: human;
+    margin-top: 6%;
+	
+}
+
+#pfrase{
+	text-align: justify;
+    font-size: 1em;
+    font-style: italic;
+    margin-bottom: 6%;
+	
+}
+
+#titulocontate{	
+	font-size:1em;
+}
+
+#contatos div{
+	width:8%;
+}
+
+#contatos2{
+	font-size:0.7em;
+}
+
+#frame{
+	margin:5%;
+}
 	
 }
 
