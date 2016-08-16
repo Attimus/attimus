@@ -190,9 +190,14 @@
 
 #pfrase{
 	 text-align: justify;
-    font-size: 1.2em;
+    font-size: 1.4em;
 	font-style:italic;
 	
+}
+
+#autor {
+	text-align:right;
+	width:100%;
 }
 
 
@@ -371,10 +376,14 @@ footer{
 
 #pfrase{
 	text-align: justify;
-    font-size: 1em;
+    font-size: 1.1em;
     font-style: italic;
-    margin-bottom: 6%;
+    
 	
+}
+
+#autor {
+	    margin-bottom: 7%;
 }
 
 #titulocontate{	
